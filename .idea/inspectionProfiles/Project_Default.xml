@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="Date:Created,Description:,Systemname:智慧校园管理系统,Author:李顺杰--202047003111,Unitname:湖南农业大学信息学院物联网工程系,Copyright:综合训练系统V1.0,Rewriting:李顺杰" />
+    </inspection_tool>
+  </profile>
+</component>
